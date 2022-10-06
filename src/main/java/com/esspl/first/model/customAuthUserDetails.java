@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 public class customAuthUserDetails implements UserDetails {
 
-	
+	@Autowired
 	private AuthUser authUser;
 	
 	

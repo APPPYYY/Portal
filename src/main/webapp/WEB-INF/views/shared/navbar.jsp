@@ -19,7 +19,7 @@
 						</li>
 						<li class="nav-item"><a class="nav-link " href="/category">Category</a>
 						</li>
-						<li class="nav-item" id="about"><a class="nav-link" href="/register">New</a>
+						<li class="nav-item" id="about"><a class="nav-link" href="/register">Request</a>
 						</li>
 						<li class="nav-item"><a class="nav-link disabled" href="javascript:void(0)">Contact</a>
 						</li>
