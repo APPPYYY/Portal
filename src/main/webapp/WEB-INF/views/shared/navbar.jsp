@@ -1,8 +1,8 @@
 <div class="container-fluid">
 		<div class="row gg">
 
-			<nav class="navbar navbar-expand-lg navbar navbar-dark bg-danger fst-italic text-uppercase ">
-				<a class="navbar-brand fst-italic text-uppercase" href="/"><b>SpringBoot</b></a>
+			<nav class="navbar navbar-expand-lg navbar  navbar-light bg-light fst-italic text-uppercase " >
+				<a class="navbar-brand fst-italic text-uppercase" href="/"><b>ESSPL</b></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse"
 					data-target="#navbarNav" aria-controls="navbarNav"
 					aria-expanded="false" aria-label="Toggle navigation">
@@ -26,7 +26,7 @@
 					</ul>
 				</div>
 				<form action="/logout" method="post">
-				<input type="submit" class="btn btn-danger fst-italic fs-5 fw-bold" value="Logout "  />
+				<input type="submit" class="btn navbar-light bg-light fst-italic fs-5 fw-bold" value="Logout "  />
 				</form>
 			</nav>
 		</div>

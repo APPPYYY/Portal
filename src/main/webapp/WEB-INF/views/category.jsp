@@ -2,7 +2,7 @@
 <div class="col-md-12">
 <div class="card bg-light text-dark">
 <div class="card-header">
-<h2 class="text-center bg-danger text-white">--ALL CATEGORY--</h2>
+<h2 class="text-center bg-dark text-white">--ALL CATEGORY--</h2>
 </div>
 <div class="card-body">
 <table class="table table-striped">

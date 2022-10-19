@@ -6,6 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <title>Document</title>
+    <style>
+        
+
+        body{
+            
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            background: -webkit-linear-gradient(rgba(1, 1, 3, 0.8), rgba(195, 55, 100, 0.8)), url("https://srengineeringbbsr.com/wp-content/uploads/2022/06/1-03.jpg");
+        }
+
+       
+        
+    </style>
 </head>
 <body>
     <div class="container-fluid d-flex align-items-center h-100 mt-5 p-4">
@@ -35,7 +50,7 @@
                               <div id="passwordHelp" class="form-text"></div>
                             </div>
                             <div class="mb-3 d-flex justify-content-center">
-                              <a href="#">Forgot Password?</a>
+                              <a href="javascript:void(0)">Forgot Password?</a>
                             </div>
                             <div class="button d-flex justify-content-center">
 

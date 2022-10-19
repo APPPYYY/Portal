@@ -53,7 +53,7 @@ form {
 						
 						
 						<img src="images/esspl.png" class="d-block " 
-								 style="height: 120px;width: 340px;margin-left: 74px;" alt="...">
+								 style="height: 120px;width: 340px;margin-left: 40px;" alt="...">
 						
 						
 						
@@ -111,7 +111,7 @@ form {
 							<br>
 
 							<button type="submit" class="btn btn-success"
-								style="width: 430px;">
+								style="width: 385px;">
 								<b>Submit</b>
 							</button>
 							

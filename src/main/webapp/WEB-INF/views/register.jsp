@@ -23,7 +23,7 @@
 
 
 
-<div class="card text-white bg-danger">
+<div class="card text-white bg-dark">
 <div class="card-body">
 <h2 class="text-center fst-italic">Request Here</h2>
 <sf:form action="/register" method="POST">
@@ -58,7 +58,7 @@
   </div>
   
  <button type="submit" class="btn btn-light"
-								style="width: 445px;">
+								style="width: 400px;">
 								<b>Request </b></button>
 </sf:form>
 

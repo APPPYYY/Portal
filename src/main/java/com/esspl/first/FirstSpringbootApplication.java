@@ -31,10 +31,10 @@ public class FirstSpringbootApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		
 		 AuthUser authUser=new AuthUser();
-		 authUser.setEmail("sonu@gmail.com");
-		 authUser.setUsername("sonu");
-		 authUser.setPassword(this.bcryptPasswordEncoder.encode("sonu"));
-		 authUser.setRole("ROLE_ADMIN");
+		 authUser.setEmail("subham@gmail.com");
+		 authUser.setUsername("subham");
+		 authUser.setPassword(this.bcryptPasswordEncoder.encode("subham"));
+		 authUser.setRole("ROLE_USER");
 		 authUserRepository.save(authUser);
 		 
 		 

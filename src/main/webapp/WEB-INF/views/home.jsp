@@ -15,27 +15,27 @@
 					</div>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="images/amazon11.jpg" class="d-block w-100" height="400px" style="height: 400px;"
+							<img src="images/esspl/esspl14.jpg" class="d-block w-100" height="400px" style="height: 400px;"
 								alt="...">
 								
 							<div class="carousel-caption d-none d-md-block fst-italic">
-								<h5>Laptop</h5>
+								<h5>Happy Rathyatra</h5>
 								<p></p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="images/amazon6.jpg" class="d-block w-100" height="400px" style="height: 400px;"
+							<img src="images/esspl/esspl18.jpg" class="d-block w-100" height="400px" style="height: 400px;"
 								alt="...">
 							<div class="carousel-caption d-none d-md-block fst-italic">
-								<h5>Headphones/Speakers</h5>
+								<h5>Happy Eid</h5>
 								<p></p>
 							</div>
 						</div>
 						<div class="carousel-item">
-							<img src="images/amazon1.jpg" height="400px" style="height: 400px;"
+							<img src="images/esspl/esspl19.jpg" height="400px" style="height: 400px;"
 								class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block fst-italic">
-								<h5>Smartphone</h5>
+								<h5>Happy Holi</h5>
 								<p></p>
 							</div>
 						</div>
@@ -60,12 +60,12 @@
 <section style="background-color: #eee;">
         <div class="card text-black">
           <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i>
-          <img src="images/APPYY330F4F1BD65.jpg"
+          <img src="images/esspl/esspl33.jpg"
             class="card-img-top" alt="Apple Computer" />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Believing is seeing</h5>
-              <p class="text-muted mb-4">SONY Bravia 8K SmartTv</p>
+              <h5 class="card-title">ESSPL UTKARSH</h5>
+              <p class="text-muted mb-4"> New office Inauguration for ESSPL. UTKARSH</p>
             </div>
            
           </div>
@@ -76,12 +76,12 @@
 <section style="background-color: #eee;">
         <div class="card text-black">
           <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i>
-          <img src="images/APPYYA0C3086582D.jpg"
+          <img src="images/esspl/esspl15.jpg"
             class="card-img-top" alt="Apple Computer" />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Believing is seeing</h5>
-              <p class="text-muted mb-4">SONY Bravia 8K SmartTv</p>
+              <h5 class="card-title">ESSPL UTKARSH</h5>
+              <p class="text-muted mb-4"> New office Inauguration for ESSPL. UTKARSH</p>
             </div>
           
           </div>
@@ -92,12 +92,12 @@
 <section style="background-color: #eee;">
         <div class="card text-black">
           <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i>
-          <img src="images/APPYY330F4F1BD65.jpg"
+          <img src="images/esspl/esspl16.jpg"
             class="card-img-top" alt="Apple Computer" />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Believing is seeing</h5>
-              <p class="text-muted mb-4">SONY Bravia 8K SmartTv</p>
+              <h5 class="card-title">ESSPL UTKARSH</h5>
+              <p class="text-muted mb-4"> New office Inauguration for ESSPL. UTKARSH</p>
             </div>
             
           </div>
@@ -108,12 +108,12 @@
 <section style="background-color: #eee;">
         <div class="card text-black">
           <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i>
-          <img src="images/APPYYA0C3086582D.jpg"
+          <img src="images/esspl/ffesspl1.jpg"
             class="card-img-top" alt="Apple Computer" />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Believing is seeing</h5>
-              <p class="text-muted mb-4">SONY Bravia 8K SmartTv</p>
+              <h5 class="card-title">ESSPL UTKARSH</h5>
+              <p class="text-muted mb-4"> New office Inauguration for ESSPL. UTKARSH</p>
             </div>
             
           </div>
@@ -124,12 +124,12 @@
 <section style="background-color: #eee;">
         <div class="card text-black">
           <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i>
-          <img src="images/APPYY330F4F1BD65.jpg"
+          <img src="images/esspl/esspl67.jpg"
             class="card-img-top" alt="Apple Computer" />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Believing is seeing</h5>
-              <p class="text-muted mb-4">SONY Bravia 8K SmartTv</p>
+              <h5 class="card-title">ESSPL UTKARSH</h5>
+              <p class="text-muted mb-4"> New office Inauguration for ESSPL. UTKARSH</p>
             </div>
             
           </div>
@@ -140,12 +140,12 @@
 <section style="background-color: #eee;">
         <div class="card text-black">
           <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i>
-          <img src="images/APPYYA0C3086582D.jpg"
+          <img src="images/esspl/esspl66.jpg"
             class="card-img-top" alt="Apple Computer" />
           <div class="card-body">
             <div class="text-center">
-              <h5 class="card-title">Believing is seeing</h5>
-              <p class="text-muted mb-4">SONY Bravia 8K SmartTv</p>
+              <h5 class="card-title">ESSPL UTKARSH</h5>
+              <p class="text-muted mb-4"> New office Inauguration for ESSPL. UTKARSH</p>
             </div>
             
           </div>

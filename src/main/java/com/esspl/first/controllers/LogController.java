@@ -9,6 +9,6 @@ public class LogController {
 	@RequestMapping("/signin")
 	public String Login() {
 		System.out.println("inside signin");
-		return "login2";
+		return "login";
 	}
 }
