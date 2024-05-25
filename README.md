@@ -1,0 +1,1 @@
+🛒 PortalCart is your gateway to a seamless e-commerce experience, combining the power of Spring Boot 🍃, JSP 📄, and JSTL 🔗 to create a dynamic online shopping platform. Dive into a world of intuitive shopping and endless possibilities! 🌐🛍️
